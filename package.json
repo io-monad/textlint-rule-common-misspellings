@@ -1,6 +1,6 @@
 {
   "name": "textlint-rule-common-misspellings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "textlint rule to check common misspellings",
   "author": "IRIDE Monad <iride.monad@gmail.com>",
   "license": "GPL-3.0",
