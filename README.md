@@ -1,6 +1,6 @@
 # textlint-rule-common-misspellings
 
-[![textlint rule](https://img.shields.io/badge/textlint-fixable-green.svg?style=social)](https://textlint.github.io/) [![Build Status](https://travis-ci.org/io-monad/textlint-rule-common-misspellings.svg?branch=master)](https://travis-ci.org/io-monad/textlint-rule-common-misspellings) [![npm version](https://badge.fury.io/js/textlint-rule-common-misspellings.svg)](https://badge.fury.io/js/textlint-rule-common-misspellings) [![GitHub license](https://img.shields.io/github/license/io-monad/textlint-rule-common-misspellings.svg)](LICENSE)
+[![textlint rule](https://img.shields.io/badge/textlint-fixable-green.svg?style=social)](https://textlint.github.io/) [![wercker status](https://app.wercker.com/status/dbc1b258519f048558f1220324b28f23/s/master "wercker status")](https://app.wercker.com/project/bykey/dbc1b258519f048558f1220324b28f23) [![npm version](https://badge.fury.io/js/textlint-rule-common-misspellings.svg)](https://badge.fury.io/js/textlint-rule-common-misspellings) [![GitHub license](https://img.shields.io/github/license/io-monad/textlint-rule-common-misspellings.svg)](LICENSE)
 
 [textlint](https://github.com/textlint/textlint) rule to find common misspellings from [Wikipedia: Lists of common misspellings](https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines).
 
